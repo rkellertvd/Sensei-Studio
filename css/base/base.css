@@ -1,0 +1,21 @@
+/* BASE CSS */
+
+
+
+/* ---------- Global Styles ---------- */
+
+
+html,
+body {
+  font-kerning: normal;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 2vw;
+  line-height: 1;
+}

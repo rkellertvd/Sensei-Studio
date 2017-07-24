@@ -1,0 +1,23 @@
+# SENSEI STUDIO INFO
+
+name: Sensei Studio
+type: theme
+description: 'Base theme'
+
+base theme: stable
+core: 8.x
+screenshot: screenshot.png
+
+regions:
+  branding: 'Branding'
+  header: 'Header'
+  pre_content: 'Pre content'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  post_content: 'Post content'
+  footer: 'Footer'
+
+libraries:
+  - senseiStudio/global-css
+  - senseiStudio/global-js

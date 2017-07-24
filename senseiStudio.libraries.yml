@@ -1,0 +1,13 @@
+# SENSEI STUDIO LIBRARIES
+
+global-css:
+  version: 1.x
+  css:
+    theme:
+      css/base/base.css: {}
+
+  global-js:
+    js:
+      js/script.js: {}
+      dependencies:
+        - core/jquery
